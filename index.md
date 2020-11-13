@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
     <title>Barcode Scanning</title>
     <link type="text/css" rel="stylesheet" />
@@ -89,7 +90,7 @@ input[type=text], textarea
 	background: url('img/b30-0000.jpg');
 	margin: auto;
 	padding: 1px;
-	width: 295px; /* độ rộng của form */
+	
 	text-align: left;
 }
 
